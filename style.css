@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.titel {
+  box-sizing: content-box;
+  width: 500px;
+  height: 60px;
+  padding: 0px;
+  border: 1px solid ;
+  background: #242424;
+  /* Total width: 160px + (2 * 20px) + (2 * 8px) = 216px
+     Total height: 80px + (2 * 20px) + (2 * 8px) = 136px
+     Content box width: 160px
+     Content box height: 80px */
+}
+
+.song {
+	color:white;
+	text-transform: uppercase;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
